@@ -1,0 +1,59 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Particle Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ]
+  ],
+  "legacy_uid": "4fa4ac0a-9ee2-d26b-a760-c400aa053e26",
+  "instructors": {
+    "content": [
+      "5ca75388-b83e-6c39-f97d-8f49f7f012b4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "451d74d2-6c16-3467-208d-2c423a69b95c",
+    "website": "8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013"
+  },
+  "course_title": "Statistical Mechanics I:  Statistical Mechanics of Particles",
+  "course_description": "Statistical Mechanics is a probabilistic approach to equilibrium properties of large numbers of degrees of freedom. In this two-semester course, basic principles are examined. Topics include: Thermodynamics, probability theory, kinetic theory, classical statistical mechanics, interacting systems, quantum statistical mechanics, and identical particles.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.333",
+  "course_image_thumbnail": {
+    "content": "da83eab1-9c70-969a-0573-81039f5b4ce9",
+    "website": "8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "905039bd-13d8-4ef1-b90c-7c130180d9fb",
+  "site_short_id": "8.333-fall-2013",
+  "site_url_path": "courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013",
+  "title": "Course Metadata"
+}
