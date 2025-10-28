@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, topics, textbooks, problem sets, exams, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -47,19 +45,19 @@ This course does not follow a particular text. The following are useful referenc
 
 Huang, Kerson. _Statistical Mechanics_. 2nd ed. Wiley, 1987. ISBN: 9780471815181.
 
-Pathria, R. K. _Statistical Mechanics_. Pergamon Press, 1972. ISBN: 9780080189949. \[Preview with [Google Books](http://books.google.com/books?id=PIk9sF9j2oUC&pg=PAfrontcover)\]
+Pathria, R. K. _Statistical Mechanics_. Pergamon Press, 1972. ISBN: 9780080189949. \[Preview with {{% resource_link "7b56606e-9adc-4866-96eb-31d32af70773" "Google Books" %}}\]
 
-Pippard, A. B. _The Elements of Classical Thermodynamics for Advanced Students of Physics_. University Press, 1966. \[Preview with [Google Books](http://books.google.com/books?id=GVhaSQ7eBQoC&pg=PAfrontcover)\]
+Pippard, A. B. _The Elements of Classical Thermodynamics for Advanced Students of Physics_. University Press, 1966. \[Preview with {{% resource_link "18a5efa6-01de-45b8-8a67-f6511f12d48e" "Google Books" %}}\]
 
 Ma, Shang-keng. _Statistical Mechanics_. Translated by M. K. Fung. World Scientific Publishing Company, 1985. ISBN: 9789971966065.
 
 Landau, L. D., and E. M. Lifshitz. _Statistical Physics, Part 1_. 3rd ed. Pergamon Press, 1980. ISBN: 9780080230382.
 
-Reif, Frederick, ed. _Fundamentals of Statistical and Thermal Physics_. McGraw-Hill, 1965. \[Preview with [Google Books](http://books.google.com/books?id=ObsbAAAAQBAJ&pg=PAfrontcover)\]
+Reif, Frederick, ed. _Fundamentals of Statistical and Thermal Physics_. McGraw-Hill, 1965. \[Preview with {{% resource_link "a7ba391e-f1aa-434a-a61a-e9aaccc097be" "Google Books" %}}\]
 
-Feynman, Richard Phillips. _Statistical Mechanics: A Set of Lectures_. Westview Press, 1998. ISBN: 9780201360769. \[Preview with [Google Books](http://books.google.com/books?id=A7RuDgAAQBAJ&pg=PAfrontcover)\]
+Feynman, Richard Phillips. _Statistical Mechanics: A Set of Lectures_. Westview Press, 1998. ISBN: 9780201360769. \[Preview with {{% resource_link "e5e3d46e-b097-49af-a66d-0f791d51871e" "Google Books" %}}\]
 
-Kardar, Mehran. _Statistical Physics of Particles_. Cambridge University Press, 2007. ISBN 9780521873420. \[Preview with [Google Books](http://books.google.com/books?id=1WlFhiz5UjwC&pg=PAfrontcover)\]
+Kardar, Mehran. _Statistical Physics of Particles_. Cambridge University Press, 2007. ISBN 9780521873420. \[Preview with {{% resource_link "5a686a8d-66ca-4405-bdfd-746452b69a8b" "Google Books" %}}\]
 
 Problem Sets
 ------------

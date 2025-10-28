@@ -4,8 +4,6 @@ description: ''
 file: /courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/7100fb32a59a5d52a68570fd5d723082_QmV7FOXijMo.vtt
 file_size: 89406
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

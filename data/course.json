@@ -37,7 +37,6 @@
     "website": "8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013"
   },
   "course_title": "Statistical Mechanics I:  Statistical Mechanics of Particles",
-  "hide_download": true,
   "course_description": "Statistical Mechanics is a probabilistic approach to equilibrium properties of large numbers of degrees of freedom. In this two-semester course, basic principles are examined. Topics include: Thermodynamics, probability theory, kinetic theory, classical statistical mechanics, interacting systems, quantum statistical mechanics, and identical particles.\n",
   "department_numbers": [
     "8"
@@ -48,7 +47,6 @@
     "content": "da83eab1-9c70-969a-0573-81039f5b4ce9",
     "website": "8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets",
